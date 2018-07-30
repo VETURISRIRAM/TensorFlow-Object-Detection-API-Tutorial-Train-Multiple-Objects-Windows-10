@@ -415,3 +415,4 @@ This error occurs when the filepaths in the training configuration file (faster_
 ```
 “C:/path/to/model.file”
 ```
+You can also find a similar article on detecting different buildings from the Chicago skyline using Tensorflow Object Detection API in the similar way that this article describes. Have a look if you are interested in more similar stuff. 
